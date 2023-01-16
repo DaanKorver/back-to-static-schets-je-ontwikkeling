@@ -2,7 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Schets je ontwikkeling
+
+![IMG_8010](https://user-images.githubusercontent.com/30351629/212703171-8b471060-aac7-4db7-afe0-382033fbe4d5.jpeg)
 
 
 ## Licentie
